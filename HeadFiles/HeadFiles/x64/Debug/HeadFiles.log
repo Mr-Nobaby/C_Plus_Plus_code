@@ -1,0 +1,6 @@
+﻿  HeadFiles.cpp
+C:\Users\Administrator\Desktop\c++code\HeadFiles\Log.h(6,8): error C2011: “Player”:“struct”类型重定义
+  (编译源文件“HeadFiles.cpp”)
+      C:\Users\Administrator\Desktop\c++code\HeadFiles\Log.h(6,8):
+      参见“Player”的声明
+  

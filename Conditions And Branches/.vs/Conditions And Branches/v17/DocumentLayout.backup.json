@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\c\u002B\u002Bcode\\Conditions And Branches\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE9D060-FF03-4201-8A58-424E2BDFFCD4}|Conditions And Branches.vcxproj|C:\\Users\\Administrator\\Desktop\\c\u002B\u002Bcode\\Conditions And Branches\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FE9D060-FF03-4201-8A58-424E2BDFFCD4}|Conditions And Branches.vcxproj|solutionrelative:src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE9D060-FF03-4201-8A58-424E2BDFFCD4}|Conditions And Branches.vcxproj|C:\\Users\\Administrator\\Desktop\\c\u002B\u002Bcode\\Conditions And Branches\\src\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FE9D060-FF03-4201-8A58-424E2BDFFCD4}|Conditions And Branches.vcxproj|solutionrelative:src\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FE9D060-FF03-4201-8A58-424E2BDFFCD4}|Conditions And Branches.vcxproj|C:\\Users\\Administrator\\Desktop\\c\u002B\u002Bcode\\Conditions And Branches\\src\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FE9D060-FF03-4201-8A58-424E2BDFFCD4}|Conditions And Branches.vcxproj|solutionrelative:src\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Log.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c\u002B\u002Bcode\\Conditions And Branches\\src\\Log.h",
+              "RelativeDocumentMoniker": "src\\Log.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c\u002B\u002Bcode\\Conditions And Branches\\src\\Log.h",
+              "RelativeToolTip": "src\\Log.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-06T11:14:06.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c\u002B\u002Bcode\\Conditions And Branches\\src\\Main.cpp",
+              "RelativeDocumentMoniker": "src\\Main.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c\u002B\u002Bcode\\Conditions And Branches\\src\\Main.cpp",
+              "RelativeToolTip": "src\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T11:12:40.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c\u002B\u002Bcode\\Conditions And Branches\\src\\Log.cpp",
+              "RelativeDocumentMoniker": "src\\Log.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c\u002B\u002Bcode\\Conditions And Branches\\src\\Log.cpp",
+              "RelativeToolTip": "src\\Log.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T11:12:39.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
