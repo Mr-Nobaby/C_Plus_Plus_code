@@ -1,0 +1,13 @@
+﻿  Main.cpp
+C:\Users\Administrator\Desktop\c++code\Classes And Structs\src\Main.cpp(28,9): error C2248: “Player::speed”: 无法访问 private 成员(在“Player”类中声明)
+      C:\Users\Administrator\Desktop\c++code\Classes And Structs\src\Main.cpp(10,6):
+      参见“Player::speed”的声明
+      C:\Users\Administrator\Desktop\c++code\Classes And Structs\src\Main.cpp(6,7):
+      参见“Player”的声明
+  
+C:\Users\Administrator\Desktop\c++code\Classes And Structs\src\Main.cpp(29,10): error C2248: “Player::Move”: 无法访问 private 成员(在“Player”类中声明)
+      C:\Users\Administrator\Desktop\c++code\Classes And Structs\src\Main.cpp(12,7):
+      参见“Player::Move”的声明
+      C:\Users\Administrator\Desktop\c++code\Classes And Structs\src\Main.cpp(6,7):
+      参见“Player”的声明
+  
