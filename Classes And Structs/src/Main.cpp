@@ -5,7 +5,8 @@
 
 class Player
 {
-//public:
+//public: 
+
 	int x, y;
 	int speed;
 
