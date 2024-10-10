@@ -10,6 +10,6 @@ int main()
 {
 	std::cout << sizeof(short); // 打印一个int占多少内存
 
-	std::cin.get();
+	//std::cin.get();
 	return 0;
 }

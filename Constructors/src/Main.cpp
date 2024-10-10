@@ -45,6 +45,8 @@ private:
 int main()
 {
 	Log::Write();
+	//在类中删除了默认的构造函数 Log() 
+	// 不能直接创建 Log 类的对象
 	//Log log;
 
 
@@ -54,5 +56,5 @@ int main()
 
 	e.Print();
 
-	std::cin.get();
+	//std::cin.get();
 }

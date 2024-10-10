@@ -35,19 +35,6 @@ public:
 	}
 };
 
-class Log
-{
-public:
-	Log() = delete;
-	static void Write()
-	{
-
-	}
-
-private:
-	//Log(){}
-};
-
 void Fun()
 {
 	Entity e;
@@ -56,16 +43,8 @@ void Fun()
 
 int main()
 {
-	Log::Write();
-	//Log log;
-
-
-	//Entity e(4.5, 6);
-	//e.Init();
-	//std::cout << e.X << "," << e.Y << std::endl;
-
 
 	Fun();
 
-	std::cin.get();
+	//std::cin.get();
 }
