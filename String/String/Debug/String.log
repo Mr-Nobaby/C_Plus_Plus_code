@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Administrator\Desktop\c++code\String\src\Main.cpp(20,26): error C2440: “初始化”: 无法从“const char [4]”转换为“const wchar_t *”
+      C:\Users\Administrator\Desktop\c++code\String\src\Main.cpp(20,26):
+      指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  
